@@ -30,3 +30,4 @@
 | Date       | Version | Change                                                 |
 |------------|---------|--------------------------------------------------------|
 | 2026-09-29 | 0.1     | Lab-01: charter, stakeholders, business case, process-group mapping added |
+| 2026-09-29 | 0.2     | Challenge: added CampusPay case post-mortem analysis   |
